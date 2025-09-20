@@ -1,0 +1,103 @@
+
+explo.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+01
+  rotate: false
+  xy: 1, 1
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 53, 1
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 105, 1
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 157, 1
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 209, 1
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 261, 1
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 313, 1
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 365, 1
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 417, 1
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 469, 1
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 521, 1
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 573, 1
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 625, 1
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 677, 1
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
